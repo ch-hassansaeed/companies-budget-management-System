@@ -6,7 +6,9 @@ A companies budget management System - CBMS build with react, typescript, bootst
 
 **Project Demo Video :-**
 
-**demo_video.mp4**
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BJl6oYNZh1s/0.jpg)](https://youtu.be/BJl6oYNZh1s)
+or
+https://youtu.be/BJl6oYNZh1s
 
 #### Run:
 
